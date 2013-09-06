@@ -1,0 +1,10 @@
+PODS:
+  - KxMenu (1)
+
+DEPENDENCIES:
+  - KxMenu (~> 1)
+
+SPEC CHECKSUMS:
+  KxMenu: 34075732cdcb4c4d8bcca2fd1d47df07ca917030
+
+COCOAPODS: 0.23.0
